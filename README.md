@@ -154,9 +154,3 @@ Achieved the highest R² score of **0.815**, making it the most effective predic
    git push origin feature/your-feature
    ```
 5. Open a **Pull Request**.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
