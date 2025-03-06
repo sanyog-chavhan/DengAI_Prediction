@@ -13,8 +13,6 @@ This repository presents a **machine learning approach** for predicting dengue f
 6. [Requirements](#-requirements)  
 7. [Results](#-results)  
 8. [Contributing](#-contributing)  
-9. [License](#-license)  
-10. [Author](#-author)  
 
 ---
 
